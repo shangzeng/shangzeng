@@ -9,8 +9,8 @@
 
 <p>
 <div align="center">
-  <img src="https://img.shields.io/badge/-Go-98b982?style=for-the-badge&logo=Go&logoColor=98b982&labelColor=282828">
-  <img src="https://img.shields.io/badge/-php-98b982?style=for-the-badge&logo=php&logoColor=98b982&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Go-c58545?style=for-the-badge&logo=Go&logoColor=98b982&labelColor=282828">
+  <img src="https://img.shields.io/badge/-php-d1a01f?style=for-the-badge&logo=php&logoColor=98b982&labelColor=282828">
   <img src="https://img.shields.io/badge/-java-98b982?style=for-the-badge&logo=java&logoColor=98b982&labelColor=282828">
 </div>
 </p>
